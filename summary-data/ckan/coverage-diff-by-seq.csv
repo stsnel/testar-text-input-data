@@ -1,0 +1,4 @@
+Condition;Not in experimental;Not in control (default AS);Not in control (custom AS)
+experimental;0;925;1716
+control-defaultactionselection;279;0;1071
+control-customactionselection;5;6;0

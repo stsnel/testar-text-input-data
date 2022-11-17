@@ -1,0 +1,5 @@
+Condition;Average;Standard deviation;Median;N
+plain;352.547;51.666;361.565;350
+experimental;4426.088;1700.094;4425.801;346
+control-customactionselection;2861.293;336.115;2884.608;350
+control-defaultactionselection;3266.967;566.639;3384.247;350
